@@ -108,7 +108,7 @@ Radar-FFT-Project/
 │
 ├── radar.py
 ├── README.md
-└── output_images/
+└── Figure_1.jpeg/
 
 ---
 
@@ -133,7 +133,7 @@ pip install numpy matplotlib
 
 Run the Python file using:
 
-python radar_fft.py
+python radar.py
 
 ---
 
